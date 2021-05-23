@@ -6,9 +6,9 @@
 
 <img src="https://github.com/anivedh555/Luanne/blob/main/assets/images/htb.png" style="margin-left: 20px; zoom: 60%;" align=left />    	<font size="10">Luanne</font>
 
-​		17<sup>th</sup> Januray 2021
+​		17<sup>th</sup> Delivery
 
-​		Machine Author(s): polarbearer
+​		Machine Author(s): ippsec
 
 ​		
 
@@ -18,7 +18,7 @@
 
 ### Description:
 
-Luanne is an easy-level machine active on HackTheBox. 
+Delivery is an easy-level machine active on HackTheBox. 
 
 ### Difficulty:
 
