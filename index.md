@@ -4,7 +4,7 @@
  
 
 
-<img src="assets/images/htb.png" style="margin-left: 20px; zoom: 60%;" align=left />    	<font size="10">Luanne</font>
+<img src="https://github.com/anivedh555/Luanne/blob/main/assets/images/htb.png" style="margin-left: 20px; zoom: 60%;" align=left />    	<font size="10">Luanne</font>
 
 ​		17<sup>th</sup> Januray 2021
 
