@@ -4,7 +4,7 @@
  
 
 
-<img src="https://github.com/anivedh555/Luanne/blob/main/assets/images/htb.png" style="margin-left: 20px; zoom: 60%;" align=left />    	<font size="10">Luanne</font>
+<img src="https://github.com/anivedh555/Luanne/blob/main/assets/images/htb.png" style="margin-left: 20px; zoom: 60%;" align=left />    	<font size="10">Delivery</font>
 
 ​		17<sup>th</sup> Delivery
 
@@ -35,7 +35,7 @@ Root: `Find it yourself and see how it feels`
 
 1) So first of all I perfomed an nmap scan on the machine which gave me the following results.
 
-![](assets/images/Luanne_nmap.png)
+![]()
 
 
 2) We can see that its got an nginx server on port 80 which requires authentication (you can make out from the status code 401).
