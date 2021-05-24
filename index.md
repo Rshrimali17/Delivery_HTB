@@ -35,7 +35,7 @@ Root: `Find it yourself and see how it feels`
 
 1) So first of all I perfomed an nmap scan using `nmap -v -sC -sV -oN intial 10.10.10.222` . The following result popped out 
 
-`  Nmap 7.80 scan initiated Thu May 20 01:10:38 2021 as: nmap -v -sC -sV -oN initial_scan 10.10.10.222
+```  Nmap 7.80 scan initiated Thu May 20 01:10:38 2021 as: nmap -v -sC -sV -oN initial_scan 10.10.10.222
 Nmap scan report for 10.10.10.222
 Host is up (0.065s latency).
 Not shown: 998 closed ports
@@ -54,7 +54,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 Read data files from: /usr/bin/../share/nmap
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
- Nmap done at Thu May 20 01:11:03 2021 -- 1 IP address (1 host up) scanned in 24.72 seconds  `
+ Nmap done at Thu May 20 01:11:03 2021 -- 1 IP address (1 host up) scanned in 24.72 seconds ```
 
 I also did a an all ports scan and found another port -> 8065.
 
