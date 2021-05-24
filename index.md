@@ -54,7 +54,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 Read data files from: /usr/bin/../share/nmap
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
- Nmap done at Thu May 20 01:11:03 2021 -- 1 IP address (1 host up) scanned in 24.72 seconds ```
+ Nmap done at Thu May 20 01:11:03 2021 -- 1 IP address (1 host up) scanned in 24.72 seconds ``
 
 I also did a an all ports scan and found another port -> 8065.
 
