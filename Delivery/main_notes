@@ -1,0 +1,41 @@
+## IP ADDR : 10.10.10.222
+
+## PORTS
+22/tcp open  ssh     OpenSSH 7.9p1 Debian 10+deb10u2
+80/tcp open  http    nginx 1.14.2
+8065
+
+## Ticket generated 
+
+abs, 
+
+You may check the status of your ticket, by navigating to the Check Status page using ticket id: 3667389.
+
+If you want to add more information to your ticket, just email 3667389@delivery.htb.
+
+Thanks,
+
+Support Team
+
+
+## getting credentials 
+
+@developers Please update theme to the OSTicket before we go live.  Credentials to the server are maildeliverer:Youve_G0t_Mail!  
+
+## SQL details from ssh
+SqlSettings": {
+        "DriverName": "mysql",
+        "DataSource": "mmuser:Crack_The_MM_Admin_PW@tcp(127.0.0.1:3306)/mattermost?charset=utf8mb4,utf8\u0026readTimeout=30s\u0026writeTimeout=30s",
+        "DataSourceReplicas": [],
+        "DataSourceSearchReplicas": [],
+        "MaxIdleConns": 20,
+        "ConnMaxLifetimeMilliseconds": 3600000,
+        "MaxOpenConns": 300,
+        "Trace": false,
+        "AtRestEncryptKey": "n5uax3d4f919obtsp1pw1k5xetq1enez",
+        "QueryTimeout": 30,
+        "DisableDatabaseSearch": false
+        
+#### hash found
+$2a$10$VM6EeymRxJ29r8Wjkr8Dtev0O.1STWb4.4ScG.anuu7v0EFJwgjjO 
+
