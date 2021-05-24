@@ -1,9 +1,8 @@
 
-<img src =https://github.com/Rshrimali17/Delivery_HTB/blob/main/banner.png>
+
+![](https://github.com/Rshrimali17/Delivery_HTB/blob/main/banner.png)
 
  
-
-
 <img src="https://github.com/anivedh555/Luanne/blob/main/assets/images/htb.png" style="margin-left: 20px; zoom: 60%;" align=left />    	<font size="10">Delivery</font>
 
 ​		17<sup>th</sup> Delivery
