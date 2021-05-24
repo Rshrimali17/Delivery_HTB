@@ -1,13 +1,14 @@
 
 
-![](https://github.com/Rshrimali17/Delivery_HTB/blob/main/banner.png)
+![](assets/images/banner.png)
 
  
-<img src="https://github.com/anivedh555/Luanne/blob/main/assets/images/htb.png" style="margin-left: 20px; zoom: 60%;" align=left />    	<font size="10">Delivery</font>
 
-​		17<sup>th</sup> Delivery
+<img src="assets/images/htb.png" style="margin-left: 20px; zoom: 60%;" align=left />    	<font size="10">Luanne</font>
 
-​		Machine Author(s): ippsec
+​		17<sup>th</sup> Januray 2021
+
+​		Machine Author(s): polarbearer
 
 ​		
 
@@ -17,7 +18,7 @@
 
 ### Description:
 
-Delivery is an easy-level machine active on HackTheBox. 
+Luanne is an easy-level machine active on HackTheBox. 
 
 ### Difficulty:
 
@@ -34,7 +35,7 @@ Root: `Find it yourself and see how it feels`
 
 1) So first of all I perfomed an nmap scan on the machine which gave me the following results.
 
-![]()
+![](assets/images/Luanne_nmap.png)
 
 
 2) We can see that its got an nginx server on port 80 which requires authentication (you can make out from the status code 401).
@@ -128,5 +129,3 @@ It was a easy machine so I thought this may be the password of root but the mach
 But I searched for the alternative of sudo in openBSD and got to know that we can use doas. And it worked...
 
 THE END.
-
-
