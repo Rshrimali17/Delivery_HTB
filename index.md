@@ -35,25 +35,6 @@ Root: `Find it yourself and see how it feels`
 
 1) So first of all I perfomed an nmap scan using `nmap -v -sC -sV -oN intial 10.10.10.222` . The following result popped out 
 
-`Nmap 7.80 scan initiated Thu May 20 01:10:38 2021 as: nmap -v -sC -sV -oN initial_scan 10.10.10.222 \
-Nmap scan report for 10.10.10.222\
-Host is up (0.065s latency).\
-Not shown: 998 closed ports\
-PORT   STATE SERVICE VERSION
-22/tcp open  ssh     OpenSSH 7.9p1 Debian 10+deb10u2 (protocol 2.0)
-| ssh-hostkey: 
-|   2048 9c:40:fa:85:9b:01:ac:ac:0e:bc:0c:19:51:8a:ee:27 (RSA)
-|   256 5a:0c:c0:3b:9b:76:55:2e:6e:c4:f4:b9:5d:76:17:09 (ECDSA)
-|_  256 b7:9d:f7:48:9d:a2:f2:76:30:fd:42:d3:35:3a:80:8c (ED25519)
-80/tcp open  http    nginx 1.14.2
-| http-methods: 
-|_  Supported Methods: GET HEAD
-|_http-server-header: nginx/1.14.2
-|_http-title: Welcome
-Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
-Read data files from: /usr/bin/../share/nmap
-Service detection performed. Please report any incorrect results at https://nmap.org/submit/.
- Nmap done at Thu May 20 01:11:03 2021 -- 1 IP address (1 host up) scanned in 24.72 seconds `
 
 I also did a an all ports scan and found another port -> 8065.
 
