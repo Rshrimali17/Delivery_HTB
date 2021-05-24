@@ -1,5 +1,5 @@
 
-![](https://github.com/Rshrimali17/Delivery_HTB/blob/main/banner.png)
+<img src =https://github.com/Rshrimali17/Delivery_HTB/blob/main/banner.png>
 
  
 
