@@ -1,6 +1,6 @@
 
 
-![](assets/images/banner.png)
+![](/banner.png)
 
  
 
