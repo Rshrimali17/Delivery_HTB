@@ -36,8 +36,8 @@ Root: `Find it yourself and see how it feels`
 1) So first of all I perfomed an nmap scan using `nmap -v -sC -sV -oN intial 10.10.10.222` . The following result popped out 
 
 ` Nmap 7.80 scan initiated Thu May 20 01:10:38 2021 as: nmap -v -sC -sV -oN initial_scan 10.10.10.222
-Nmap scan report for 10.10.10.222`
-`Host is up (0.065s latency).
+Nmap scan report for 10.10.10.222
+Host is up (0.065s latency).
 Not shown: 998 closed ports
 PORT   STATE SERVICE VERSION
 22/tcp open  ssh     OpenSSH 7.9p1 Debian 10+deb10u2 (protocol 2.0)
